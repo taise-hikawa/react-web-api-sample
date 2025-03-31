@@ -1,3 +1,9 @@
+# 概要
+Reactでweb api通信を実装する学習で作ったサンプル
+https://api.nasa.gov/
+を使っている
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
